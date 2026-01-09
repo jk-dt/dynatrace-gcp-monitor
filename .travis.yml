@@ -7,7 +7,6 @@ addons:
     packages:
     - docker
     - docker-compose
-if: fork = false
 language: generic
 
 notifications:
